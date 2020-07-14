@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ezrapettingill/Desktop/blah/blah.csproj": {}
+    "/Users/ezrapettingill/Desktop/blah/bobthebuilder/blah.csproj": {}
   },
   "projects": {
-    "/Users/ezrapettingill/Desktop/blah/blah.csproj": {
+    "/Users/ezrapettingill/Desktop/blah/bobthebuilder/blah.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ezrapettingill/Desktop/blah/blah.csproj",
+        "projectUniqueName": "/Users/ezrapettingill/Desktop/blah/bobthebuilder/blah.csproj",
         "projectName": "blah",
-        "projectPath": "/Users/ezrapettingill/Desktop/blah/blah.csproj",
+        "projectPath": "/Users/ezrapettingill/Desktop/blah/bobthebuilder/blah.csproj",
         "packagesPath": "/Users/ezrapettingill/.nuget/packages/",
-        "outputPath": "/Users/ezrapettingill/Desktop/blah/obj/",
+        "outputPath": "/Users/ezrapettingill/Desktop/blah/bobthebuilder/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/ezrapettingill/.nuget/NuGet/NuGet.Config"
+          "/Users/ezrapettingill/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

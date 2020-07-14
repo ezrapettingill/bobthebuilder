@@ -1,3 +1,28 @@
-﻿<Properties StartupConfiguration="{9D06B7ED-76CD-40E2-B186-CE7936119B04}|Default">
+﻿<Properties StartupConfiguration="{7EAA9F87-E633-44B6-B091-51BC583060A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bob.html">
+    <Files>
+      <File FileName="Pages/FetchData.razor" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="bob.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="blah" expanded="True">
+            <Node name="blah" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="bob.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.blah PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
